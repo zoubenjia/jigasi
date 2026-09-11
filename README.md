@@ -550,3 +550,5 @@ to `/configure/call-control-muc/remove`:
 
 The request will be successful (return 200) as long as the format of the JSON is 
 as expected, and the connection was found and removed.
+
+<!-- CI control run: source identical to upstream master 58cdae8 -->
